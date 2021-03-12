@@ -1,2 +1,2 @@
-# C20-Algorithm---Bounce-Off
-This is an algorithm to bounce of two rectangle
+# p5.play-boilerplate
+Boiler plate for p5.play
